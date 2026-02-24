@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Penjana Borang Kokurikulum SKSA",
+  "description": "Aplikasi untuk mengisi borang kebenaran ibu bapa dan perakuan kesihatan kokurikulum dengan penjanaan PDF secara automatik.",
+  "requestFramePermissions": []
+}
