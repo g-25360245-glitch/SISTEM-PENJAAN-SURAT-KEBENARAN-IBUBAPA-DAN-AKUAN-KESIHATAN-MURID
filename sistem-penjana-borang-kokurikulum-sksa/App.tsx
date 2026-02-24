@@ -71,7 +71,7 @@ export default function App() {
             />
           </div>
           <h1 className="text-xl md:text-2xl font-bold tracking-tight leading-tight uppercase">
-            SISTEM PENJAAN SURAT KEBENARAN IBUBAPA DAN AKUAN KESIHATAN MURID
+            SISTEM PENJANAAN SURAT KEBENARAN IBUBAPA DAN AKUAN KESIHATAN MURID
           </h1>
           <p className="text-indigo-100 mt-2">SK Sungai Abong • JBA 5095</p>
         </header>
